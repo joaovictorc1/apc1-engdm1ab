@@ -1,2 +1,2 @@
 # apc1-engdm1ab
-APC1
+Repositório da disciplina APC 1
